@@ -104,26 +104,26 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 
 ### Reporter
 
-- [macaca-reporter](//github.com/macacajs/macaca-reporter)
+- [macaca-reporter](//github.com/macacajs/macaca-reporter) - Macaca reporter is a reporter used for mocha and other frameworks
 
 ### Other Tools
 
-- [macaca-adb](//github.com/macacajs/macaca-adb)
-- [XCTestWD](//github.com/macacajs/xctestwd)
-- [ios-simulator](//github.com/macacajs/ios-simulator)
-- [UIAutomatorWD](//github.com/macacajs/uiautomatorwd)
-- [iosHookViewId](//github.com/macacajs/ioshookviewid)
-- [android-unicode](//github.com/macacajs/android-unicode)
-- [command-line-test](//github.com/macacajs/command-line-test)
-- [android-performance](//github.com/macacajs/android-performance)
+- [macaca-adb](//github.com/macacajs/macaca-adb) - Node.js wrapper for ADB
+- [XCTestWD](//github.com/macacajs/xctestwd) - A Swift implementation of WebDriver server for iOS that runs on Simulator/iOS devices
+- [ios-simulator](//github.com/macacajs/ios-simulator) - Node.js wrapper for iOS simulator
+- [UIAutomatorWD](//github.com/macacajs/uiautomatorwd) - Node.js wrapper for Android UIAutomator
+- [iosHookViewId](//github.com/macacajs/ioshookviewid) - A solution for ios hook view id
+- [android-unicode](//github.com/macacajs/android-unicode) - Android unicode UTF-7 input apk
+- [command-line-test](//github.com/macacajs/command-line-test) - command-line test tool for Node.js
+- [android-performance](//github.com/macacajs/android-performance) - Node.js wrapper to android performance with adb
 
 ## Drivers
 
-- [macaca-android](//github.com/macacajs/macaca-android)
-- [macaca-ios](//github.com/macacajs/macaca-ios)
-- [macaca-chrome](//github.com/macacajs/macaca-chrome)
-- [macaca-electron](//github.com/macacajs/macaca-electron)
-- [macaca-puppeteer](//github.com/macacajs/macaca-puppeteer)
+- [macaca-android](//github.com/macacajs/macaca-android) - Macaca Android driver
+- [macaca-ios](//github.com/macacajs/macaca-ios) - Macaca iOS driver
+- [macaca-chrome](//github.com/macacajs/macaca-chrome) - Macaca Chrome driver
+- [macaca-electron](//github.com/macacajs/macaca-electron) - Macaca Electron driver
+- [macaca-puppeteer](//github.com/macacajs/macaca-puppeteer) - Macaca Puppeteer driver
 
 ## Articles
 
