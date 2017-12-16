@@ -50,6 +50,8 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 - [sample-java](//github.com/macaca-sample/sample-nodejs) - Macaca test sample for Java
 - [sample-python](//github.com/macaca-sample/sample-nodejs) - Macaca test sample for Python
 - [torchjs-sample](//github.com/macaca-sample/torchjs-sample) - Macaca test sample for Torch.js
+- [react-sample](//github.com/macaca-sample/react-sample) - Macaca test sample for browser React
+- [vue-sample](//github.com/macaca-sample/vue-sample) - Macaca test sample for browser framework Vue.js
 - [macaca-java-biz-framework](//github.com/macaca-sample/macaca-java-biz-framework) - A framework for uiautomation business development based on wd.java
 - [macaca-java-biz-sample](//github.com/macaca-sample/macaca-java-biz-sample) - Sample for Macaca business development based on wd.java
 - [macaca-reporter-standalone-sample](//github.com/macaca-sample/macaca-reporter-standalone-sample) - Sample for Macaca reporter
@@ -76,6 +78,11 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 ### Recorder
 
 - [UI Recorder](//github.com/alibaba/uirecorder) - UI Recorder is a UI test case recorder like Selenium IDE
+
+### DataHub
+
+- [DataHub](//github.com/macacajs/macaca-datahub) - Continuous data provider for development, testing, staging and production.
+- [datahub-proxy-middleware](//github.com/macacajs/datahub-proxy-middleware) - DataHub proxy middleware for Express.js
 
 ### NoSmoke
 
