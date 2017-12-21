@@ -49,7 +49,6 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 - [sample-nodejs](//github.com/macaca-sample/sample-nodejs) - Macaca test sample for Node.js
 - [sample-java](//github.com/macaca-sample/sample-nodejs) - Macaca test sample for Java
 - [sample-python](//github.com/macaca-sample/sample-nodejs) - Macaca test sample for Python
-- [torchjs-sample](//github.com/macaca-sample/torchjs-sample) - Macaca test sample for Torch.js
 - [react-sample](//github.com/macaca-sample/react-sample) - Macaca test sample for browser React
 - [vue-sample](//github.com/macaca-sample/vue-sample) - Macaca test sample for browser framework Vue.js
 - [macaca-java-biz-framework](//github.com/macaca-sample/macaca-java-biz-framework) - A framework for uiautomation business development based on wd.java
