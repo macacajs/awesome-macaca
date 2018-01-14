@@ -59,6 +59,7 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 - [android-docker-ci-sample](//github.com/macaca-sample/android-docker-ci-sample) - Sample for Macaca docker ci
 - [cv-sample-python](//github.com/macaca-sample/cv-sample-python) - Sample for Macaca CV Python
 - [macaca_ci_android_ios](//github.com/macaca-sample/macaca_ci_android_ios) - Macaca iOS 和 Android 并行测试
+- [po-sample-python](//github.com/macaca-sample/po-sample-python) - 基于 PageObject 跨平台的设计模式
 
 ## Clients
 
