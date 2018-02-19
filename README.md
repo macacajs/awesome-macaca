@@ -11,9 +11,9 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 - [Examples](#examples)
 - [Clients](#clients)
 - [Tools](#tools)
-  - [Debugging](#debugging)
   - [Inspector](#inspector)
   - [Recorder](#recorder)
+  - [DataHub](#datahub)
   - [NoSmoke](#nosmoke)
   - [Monkey Testing](#monkey-testing)
   - [Computer Vision](#computer-vision)
@@ -70,10 +70,6 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 - [wd.py](//github.com/macacajs/wd.py) - Python client binding for Macaca
 
 ## Tools
-
-### Debugging
-
-- [devtool](//macacajs.github.io/debugging) - Node.js programs through Chromium DevTools
 
 ### Inspector
 
