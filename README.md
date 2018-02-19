@@ -83,6 +83,9 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 
 - [DataHub](//github.com/macacajs/macaca-datahub) - Continuous data provider for development, testing, staging and production.
 - [datahub-proxy-middleware](//github.com/macacajs/datahub-proxy-middleware) - DataHub proxy middleware for Express.js
+- [datahub-nodejs-sdk](//github.com/macacajs/datahub-nodejs-sdk) - DataHub Node.js SDK
+- [datahub-java-sdk](//github.com/macacajs/datahub-java-sdk) - DataHub SDK for Android and Java applications
+- [datahub-ios-sdk](//github.com/macacajs/datahub-ios-sdk) - DataHub SDK for iOS
 
 ### NoSmoke
 
@@ -107,7 +110,7 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 
 ### Browser Testing
 
-- [f2etest](//github.com/alibaba/f2etest) - F2etest是一个面向前端、测试、产品等岗位的多浏览器兼容性测试整体解决方案
+- [f2etest](//github.com/alibaba/f2etest) - F2etest是一个多浏览器兼容性测试整体解决方案
 
 ### Reporter
 
