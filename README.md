@@ -14,6 +14,7 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
   - [Inspector](#inspector)
   - [Recorder](#recorder)
   - [DataHub](#datahub)
+  - [Coverage](#coverage)
   - [NoSmoke](#nosmoke)
   - [Monkey Testing](#monkey-testing)
   - [Computer Vision](#computer-vision)
@@ -51,7 +52,6 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 - [sample-python](//github.com/macaca-sample/sample-nodejs) - Macaca test sample for Python
 - [react-sample](//github.com/macaca-sample/react-sample) - Macaca test sample for browser React
 - [vue-sample](//github.com/macaca-sample/vue-sample) - Macaca test sample for browser framework Vue.js
-- [coverage-sample](//github.com/macaca-sample/coverage-sample) - Coverage sample
 - [webpack-datahub-sample](//github.com/macaca-sample/webpack-datahub-sample) DataHub proxy middleware sample for Webpack
 - [android-datahub-sample](//github.com/xudafeng/android-app-bootstrap) DataHub sample for Android
 - [ios-datahub-sample](//github.com/xudafeng/ios-app-bootstrap) DataHub sample for iOS
@@ -86,6 +86,12 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 - [datahub-nodejs-sdk](//github.com/macacajs/datahub-nodejs-sdk) - DataHub Node.js SDK
 - [datahub-java-sdk](//github.com/macacajs/datahub-java-sdk) - DataHub SDK for Android and Java applications
 - [datahub-ios-sdk](//github.com/macacajs/datahub-ios-sdk) - DataHub SDK for iOS
+
+### Coverage
+
+- [web-coverage-sample](//github.com/macaca-sample/coverage-sample) - Coverage sample for Web
+- [android-coverage-sample](//github.com/xudafeng/android-app-bootstrap) Coverage sample for Android
+- [ios-coverage-sample](//github.com/xudafeng/ios-app-bootstrap) Coverage sample for iOS
 
 ### NoSmoke
 
