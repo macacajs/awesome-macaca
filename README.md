@@ -53,6 +53,7 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 - [react-sample](//github.com/macaca-sample/react-sample) - Macaca test sample for browser React
 - [vue-sample](//github.com/macaca-sample/vue-sample) - Macaca test sample for browser framework Vue.js
 - [webpack-datahub-sample](//github.com/macaca-sample/webpack-datahub-sample) DataHub proxy middleware sample for Webpack
+- [angular-datahub-sample](//github.com/macaca-sample/angular-datahub-sample)
 - [android-datahub-sample](//github.com/xudafeng/android-app-bootstrap) DataHub sample for Android
 - [ios-datahub-sample](//github.com/xudafeng/ios-app-bootstrap) DataHub sample for iOS
 - [macaca-java-biz-framework](//github.com/macaca-sample/macaca-java-biz-framework) - A framework for uiautomation business development based on wd.java
