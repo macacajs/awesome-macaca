@@ -182,6 +182,18 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 
 Your contributions and suggestions are always welcome! :smiley:
 
+<!-- GITCONTRIBUTOR_START -->
+
+## Contributors
+
+|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>
+| :---: |
+
+
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto upated at `Sat Apr 21 2018 17:02:08 GMT+0800`.
+
+<!-- GITCONTRIBUTOR_END -->
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)

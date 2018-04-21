@@ -1,0 +1,19 @@
+{
+  "name": "awesome-macaca",
+  "version": "1.0.0",
+  "description": "A curated list of awesome things regarding Macaca ecosystem.",
+  "keywords": [
+    "macaca"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/macacajs/awesome-macaca"
+  },
+  "scripts": {
+    "contributor": "git-contributor"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "git-contributor": "^1.0.7"
+  }
+}
