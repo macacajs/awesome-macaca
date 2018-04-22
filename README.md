@@ -52,10 +52,11 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 - [sample-python](//github.com/macaca-sample/sample-nodejs) - Macaca test sample for Python
 - [react-sample](//github.com/macaca-sample/react-sample) - Macaca test sample for browser React
 - [vue-sample](//github.com/macaca-sample/vue-sample) - Macaca test sample for browser framework Vue.js
-- [webpack-datahub-sample](//github.com/macaca-sample/webpack-datahub-sample) Webpack proxy middleware sample for DataHub
-- [angular-datahub-sample](//github.com/macaca-sample/angular-datahub-sample) Angular's ng toolchain sample for DataHub
-- [android-datahub-sample](//github.com/xudafeng/android-app-bootstrap) Android sample for DataHub
-- [ios-datahub-sample](//github.com/xudafeng/ios-app-bootstrap) iOS sample for DataHub
+- [webpack-datahub-sample](//github.com/macaca-sample/webpack-datahub-sample) - Webpack proxy middleware sample for DataHub
+- [antd-sample](//github.com/macaca-sample/antd-sample) Ant Design sample for DataHub
+- [angular-datahub-sample](//github.com/macaca-sample/angular-datahub-sample) - Angular's ng toolchain sample for DataHub
+- [android-datahub-sample](//github.com/app-bootstrap/android-app-bootstrap) - Android sample for DataHub
+- [ios-datahub-sample](//github.com/app-bootstrap/ios-app-bootstrap) - iOS sample for DataHub
 - [macaca-java-biz-framework](//github.com/macaca-sample/macaca-java-biz-framework) - A framework for uiautomation business development based on wd.java
 - [macaca-java-biz-sample](//github.com/macaca-sample/macaca-java-biz-sample) - Sample for Macaca business development based on wd.java
 - [macaca-reporter-standalone-sample](//github.com/macaca-sample/macaca-reporter-standalone-sample) - Sample for Macaca reporter
@@ -91,8 +92,8 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 ### Coverage
 
 - [web-coverage-sample](//github.com/macaca-sample/coverage-sample) - Coverage sample for Web
-- [android-coverage-sample](//github.com/xudafeng/android-app-bootstrap) Coverage sample for Android
-- [ios-coverage-sample](//github.com/xudafeng/ios-app-bootstrap) Coverage sample for iOS
+- [android-coverage-sample](//github.com/app-bootstrap/android-app-bootstrap) Coverage sample for Android
+- [ios-coverage-sample](//github.com/app-bootstrap/ios-app-bootstrap) Coverage sample for iOS
 
 ### NoSmoke
 
