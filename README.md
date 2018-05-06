@@ -88,6 +88,7 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 - [datahub-nodejs-sdk](//github.com/macacajs/datahub-nodejs-sdk) - DataHub Node.js SDK
 - [datahub-java-sdk](//github.com/macacajs/datahub-java-sdk) - DataHub SDK for Android and Java applications
 - [datahub-ios-sdk](//github.com/macacajs/datahub-ios-sdk) - DataHub SDK for iOS
+- [egg-datahub](//github.com/macacajs/egg-datahub) - [Egg.js](//github.com/eggjs/egg) plugin for Macaca DataHub
 
 ### Coverage
 
