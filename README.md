@@ -21,6 +21,7 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
   - [Page UITest](#page-uitest)
   - [Browser Testing](#browser-testing)
   - [Reporter](#reporter)
+  - [Bot](#bot)
   - [Other Tools](#other-tools)
 - [Drivers](#drivers)
 - [Articles](#articles)
@@ -125,6 +126,10 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 ### Reporter
 
 - [macaca-reporter](//github.com/macacajs/macaca-reporter) - Macaca reporter is a reporter used for mocha and other frameworks
+
+### Bot
+
+- [macaca-bot](//github.com/macacajs/macaca-bot) - :octocat: bot to resolve the issues and PR of Macaca
 
 ### Other Tools
 
