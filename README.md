@@ -25,6 +25,7 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
   - [Bot](#bot)
   - [Other Tools](#other-tools)
 - [Drivers](#drivers)
+- [Video](#video)
 - [Articles](#articles)
   - [English](#english)
   - [Chinese](#chinese)
@@ -154,6 +155,10 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 - [macaca-chrome](//github.com/macacajs/macaca-chrome) - Macaca Chrome driver
 - [macaca-electron](//github.com/macacajs/macaca-electron) - Macaca Electron driver
 - [macaca-puppeteer](//github.com/macacajs/macaca-puppeteer) - Macaca Puppeteer driver
+
+## Video
+
+- [Macaca Test Framework - Youtube Channels](https://www.youtube.com/playlist?list=PLpmrn9zBXhkiyfWhaZZV1ZaRj-LFtu6bj)
 
 ## Articles
 
