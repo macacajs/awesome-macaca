@@ -4,6 +4,18 @@
 
 A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosystem.
 
+<!-- GITCONTRIBUTOR_START -->
+
+## Contributors
+
+|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|
+| :---: |
+
+
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Tue Feb 12 2019 14:14:55 GMT+0800`.
+
+<!-- GITCONTRIBUTOR_END -->
+
 ## Table of Contents
 
 - [Resources](#resources)
@@ -55,7 +67,7 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 - [sample-python](//github.com/macaca-sample/sample-nodejs) - Macaca test sample for Python
 - [react-sample](//github.com/macaca-sample/react-sample) - Macaca test sample for browser React
 - [vue-sample](//github.com/macaca-sample/vue-sample) - Macaca test sample for browser framework Vue.js
-- [webpack-datahub-sample](//github.com/macaca-sample/webpack-datahub-sample) - Webpack proxy middleware sample for DataHub
+- [web-app-bootstrap](//github.com/app-bootstrap/web-app-bootstrap) - All in one sample for popular web framework
 - [antd-sample](//github.com/macaca-sample/antd-sample) - Ant Design sample for DataHub
 - [angular-datahub-sample](//github.com/macaca-sample/angular-datahub-sample) - Angular's ng toolchain sample for DataHub
 - [android-datahub-sample](//github.com/app-bootstrap/android-app-bootstrap) - Android sample for DataHub
@@ -199,18 +211,6 @@ A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosys
 ## Contributing
 
 Your contributions and suggestions are always welcome! :smiley:
-
-<!-- GITCONTRIBUTOR_START -->
-
-## Contributors
-
-|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>
-| :---: |
-
-
-This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto upated at `Sat Apr 21 2018 17:02:08 GMT+0800`.
-
-<!-- GITCONTRIBUTOR_END -->
 
 ## License
 
