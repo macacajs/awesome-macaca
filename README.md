@@ -63,8 +63,8 @@ This project follows the git-contributor [spec](https://github.com/xudafeng/git-
 ## Examples
 
 - [sample-nodejs](//github.com/macaca-sample/sample-nodejs) - Macaca test sample for Node.js
-- [sample-java](//github.com/macaca-sample/sample-nodejs) - Macaca test sample for Java
-- [sample-python](//github.com/macaca-sample/sample-nodejs) - Macaca test sample for Python
+- [sample-java](//github.com/macaca-sample/sample-java) - Macaca test sample for Java
+- [sample-python](//github.com/macaca-sample/sample-python) - Macaca test sample for Python
 - [react-sample](//github.com/macaca-sample/react-sample) - Macaca test sample for browser React
 - [vue-sample](//github.com/macaca-sample/vue-sample) - Macaca test sample for browser framework Vue.js
 - [web-app-bootstrap](//github.com/app-bootstrap/web-app-bootstrap) - All in one sample for popular web framework
