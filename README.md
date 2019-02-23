@@ -4,15 +4,17 @@
 
 A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosystem.
 
+Click the button on this repo (star us too!) to get notified of upcoming news.
+
 <!-- GITCONTRIBUTOR_START -->
 
 ## Contributors
 
-|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|
-| :---: |
+|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars2.githubusercontent.com/u/1380777?v=4" width="100px;"/><br/><sub><b>wusphinx</b></sub>](https://github.com/wusphinx)<br/>|
+| :---: | :---: |
 
 
-This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Tue Feb 12 2019 14:14:55 GMT+0800`.
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Sat Feb 23 2019 14:26:21 GMT+0800`.
 
 <!-- GITCONTRIBUTOR_END -->
 
