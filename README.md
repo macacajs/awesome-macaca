@@ -4,7 +4,7 @@
 
 A curated list of awesome things regarding [Macaca](//macacajs.github.io) ecosystem.
 
-Click the button on this repo (star us too!) to get notified of upcoming news.
+Click the <img src="https://user-images.githubusercontent.com/1011681/53282784-b3e0c980-3777-11e9-8f66-792c1e24c210.png" height="18"/> button on this repo (star us too!) to get notified of upcoming news.
 
 <!-- GITCONTRIBUTOR_START -->
 
