@@ -197,6 +197,7 @@ This project follows the git-contributor [spec](https://github.com/xudafeng/git-
 - [Macaca 测试用例单步调试](https://testerhome.com/topics/4563)
 - [混合 H5 应用 UI 自动化入门](https://testerhome.com/topics/9651)
 - [Android 输入中文的实现](https://testerhome.com/topics/5327)
+- [Mac端安装Macaca App Inspector超详细教程](https://www.jianshu.com/p/28d87ef66477)
 
 ## Presentations
 
