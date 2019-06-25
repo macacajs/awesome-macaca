@@ -10,11 +10,11 @@ Click the <a href="https://github.com/macacajs/awesome-macaca/watchers"><img src
 
 ## Contributors
 
-|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars2.githubusercontent.com/u/1380777?v=4" width="100px;"/><br/><sub><b>wusphinx</b></sub>](https://github.com/wusphinx)<br/>|
-| :---: | :---: |
+|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars3.githubusercontent.com/u/1209810?v=4" width="100px;"/><br/><sub><b>paradite</b></sub>](https://github.com/paradite)<br/>|[<img src="https://avatars2.githubusercontent.com/u/1380777?v=4" width="100px;"/><br/><sub><b>wusphinx</b></sub>](https://github.com/wusphinx)<br/>|
+| :---: | :---: | :---: |
 
 
-This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Sat Feb 23 2019 14:26:21 GMT+0800`.
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Tue Jun 25 2019 11:13:18 GMT+0800`.
 
 <!-- GITCONTRIBUTOR_END -->
 
@@ -28,7 +28,7 @@ This project follows the git-contributor [spec](https://github.com/xudafeng/git-
   - [Inspector](#inspector)
   - [Recorder](#recorder)
   - [DataHub](#datahub)
-  - [Marmot](#marmot)
+  - [Reliable](#reliable)
   - [Coverage](#coverage)
   - [NoSmoke](#nosmoke)
   - [Monkey Testing](#monkey-testing)
@@ -108,9 +108,9 @@ This project follows the git-contributor [spec](https://github.com/xudafeng/git-
 - [egg-datahub](//github.com/macacajs/egg-datahub) - [Egg.js](//github.com/eggjs/egg) plugin for Macaca DataHub
 - [umi-plugin-datahub](//github.com/umijs/umi/tree/master/packages/umi-plugin-datahub) - [UmiJS](//github.com/umijs/umi/) plugin for Macaca DataHub
 
-### Marmot
+### Reliable
 
-- [Marmot](//github.com/macacajs/marmot) - Release management suite with continuous delivery support for deployments
+- [Reliable](//github.com/macacajs/reliable) - Release management suite with continuous delivery support for deployments
 
 ### Coverage
 
@@ -197,7 +197,7 @@ This project follows the git-contributor [spec](https://github.com/xudafeng/git-
 - [Macaca 测试用例单步调试](https://testerhome.com/topics/4563)
 - [混合 H5 应用 UI 自动化入门](https://testerhome.com/topics/9651)
 - [Android 输入中文的实现](https://testerhome.com/topics/5327)
-- [Mac端安装Macaca App Inspector超详细教程](https://www.jianshu.com/p/28d87ef66477)
+- [MacOS 安装 Inspector 超详细教程](https://www.jianshu.com/p/28d87ef66477)
 
 ## Presentations
 
