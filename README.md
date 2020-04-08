@@ -146,6 +146,7 @@ This project follows the git-contributor [spec](https://github.com/xudafeng/git-
 ### Reporter
 
 - [macaca-reporter](//github.com/macacajs/macaca-reporter) - Macaca reporter is a reporter used for mocha and other frameworks
+- [macaca-reporter-java-plugin](//github.com/macacajs/macaca-reporter-java-plugin) - Macaca Reporter Plugin For Java
 
 ### Bot
 
