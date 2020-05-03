@@ -205,13 +205,14 @@ This project follows the git-contributor [spec](https://github.com/xudafeng/git-
 ### Slides
 
 - [Automation Facing The Future](//xudafeng.github.io/slide/archives/ningjs)
+- [大前端测试的思考和在语雀的实践](//github.com/xudafeng/slide/tree/master/keynote)
 
 ## Community
 
 - [Testerhome](https://testerhome.com/topics/node68)
 - [Cnodejs](https://www.google.com.hk/search?hl=zh-CN&q=site:cnodejs.org+macaca&cad=h)
 - [StackOverflow](https://stackoverflow.com/search?q=macaca)
-- [GitHub](https://github.com/search?q=macaca)
+- [GitHub](//github.com/search?q=macaca)
 
 ## Contributing
 
