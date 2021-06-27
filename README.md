@@ -175,6 +175,7 @@ This project follows the git-contributor [spec](https://github.com/xudafeng/git-
 ## Video
 
 - [Macaca Test Framework - Youtube Channels](https://www.youtube.com/playlist?list=PLpmrn9zBXhkiyfWhaZZV1ZaRj-LFtu6bj)
+- [How to Use Macaca inspector in IOS testing](https://youtu.be/_wrL0I5SMdI)
 
 ## Articles
 
