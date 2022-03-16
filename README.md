@@ -51,10 +51,10 @@ This project follows the git-contributor [spec](https://github.com/xudafeng/git-
 
 ## Resources
 
-- [Macaca Official Site](//macacajs.com)
+- [Macaca Official Site](macacajs.github.io)
 - [Macaca GitHub](//github.com/alibaba/macaca)
 - [Macaca Community GitHub](//github.com/macacajs)
-- [Macaca FAQ](//macacajs.com/faq)
+- [Macaca FAQ](macacajs.github.io/faq)
 
 ## Tutorials
 
