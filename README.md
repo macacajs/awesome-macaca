@@ -171,6 +171,8 @@ This project follows the git-contributor [spec](https://github.com/xudafeng/git-
 - [macaca-chrome](//github.com/macacajs/macaca-chrome) - Macaca Chrome driver
 - [macaca-electron](//github.com/macacajs/macaca-electron) - Macaca Electron driver
 - [macaca-puppeteer](//github.com/macacajs/macaca-puppeteer) - Macaca Puppeteer driver
+- [macaca-macos](//github.com/macacajs/macaca-macos) - Macaca MacOS driver
+- [macaca-playwright](//github.com/macacajs/macaca-playwright) - Macaca Playwright driver
 
 ## Video
 
