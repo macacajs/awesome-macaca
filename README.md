@@ -161,7 +161,6 @@ This project follows the git-contributor [spec](https://github.com/xudafeng/git-
 - [UIAutomatorWD](//github.com/macacajs/uiautomatorwd) - Node.js wrapper for Android UIAutomator
 - [iosHookViewId](//github.com/macacajs/ioshookviewid) - A solution for ios hook view id
 - [android-unicode](//github.com/macacajs/android-unicode) - Android unicode UTF-7 input apk
-- [command-line-test](//github.com/macacajs/command-line-test) - command-line test tool for Node.js
 - [android-performance](//github.com/macacajs/android-performance) - Node.js wrapper to android performance with adb
 
 ## Drivers
@@ -203,6 +202,7 @@ This project follows the git-contributor [spec](https://github.com/xudafeng/git-
 - [混合 H5 应用 UI 自动化入门](https://testerhome.com/topics/9651)
 - [Android 输入中文的实现](https://testerhome.com/topics/5327)
 - [MacOS 安装 Inspector 超详细教程](https://www.jianshu.com/p/28d87ef66477)
+- [大前端测试的思考和在语雀的实践分享](https://infoq.cn/article/2FhPNEatO5kkR7jeIsU5)
 
 ## Presentations
 
